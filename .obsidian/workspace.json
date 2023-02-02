@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d331a942fd54244a",
+    "type": "split",
+    "children": [
+      {
+        "id": "063813bd0efa5020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf3550101abc0d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a2935e4e43f0d79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b289e653d996420c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b5a50413c4da4c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c62c0d8c792bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09cee194a0dec212",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "febd043abef2a79c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "dc4e85222b27d2a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a924d2d8887f167b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee1aef1077d1024",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "649a7969365927fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61c48cbd7c6b51c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddb6b8272e3b4ac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md"
+              }
+            }
+          },
+          {
+            "id": "1e5595aa2aa3c031",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "57aba0efe7786b5e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "09cee194a0dec212",
+  "lastOpenFiles": [
+    "Pasted image 20230131234252.jpg",
+    "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+    "Pasted image 20230131232507.jpg",
+    "AAAAA Immagini/Pasted image 20230131231638.png",
+    "photo1674922630 (1).jpeg",
+    "AAAAA IMMAGINI/photo1674922630.jpeg",
+    "AAAAA IMMAGINI/photo1674922630 (1).jpeg",
+    "AAAAA IMMAGINI/2-3 Split.md",
+    "AAAAA COMMANDS/COMMANDS.md",
+    "PROG ALGO/Algoritmi/Radix Sort.md"
+  ]
+}

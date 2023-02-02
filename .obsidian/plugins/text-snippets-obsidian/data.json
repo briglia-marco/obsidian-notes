@@ -1,0 +1,16 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\ntt : $\\theta$ \n\narray : $$$nl$\\begin{array}{$tb$}$nl$$nl$\\end{array}$nl$$$\n\n",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "tt : $\\theta$ ",
+    "array : $$$nl$\\begin{array}{$tb$}$nl$$nl$\\end{array}$nl$$$"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
