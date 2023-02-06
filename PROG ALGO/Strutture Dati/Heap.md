@@ -1,3 +1,4 @@
+
 <img src=https://i.imgur.com/UlW0FGd.png width="40%" />
 
 # Caratteristiche
@@ -104,25 +105,6 @@ class Heap {
 		    // Restituiamo il valore del nodo estratto
 		    return k;
 		}
-	}
-
-		// Metodo per estrarre un nodo con valore k dall'albero heap
-	extractNodeWithValue(k) {
-		  // Troviamo l'indice del nodo con valore k nell'array
-		  let nodeIndex = this.array.indexOf(k);
-		  if (nodeIndex === -1) {
-		    // Se il nodo non esiste, restituiamo null
-		    return null;
-		  } else {
-	// Sostituiamo il valore del nodo trovato con il valore massimo dell'albero heap
-		    this.array[nodeIndex] = this.array[this.array.length - 1];
-		    // Rimuoviamo il valore massimo dall'albero heap
-		    this.array.pop();
-		    // Ripristiniamo la proprietà di max-heap
-		    this.maxHeapify(nodeIndex);
-		    // Restituiamo il valore del nodo estratto
-		    return k;
-		  }
 	}
 
 	// Algoritmo HeapSort in JavaScript

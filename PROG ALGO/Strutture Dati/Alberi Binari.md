@@ -1,3 +1,4 @@
+
 <img src=https://i.imgur.com/th9XaIb.png width="60%" />
 
 # Caratteristiche

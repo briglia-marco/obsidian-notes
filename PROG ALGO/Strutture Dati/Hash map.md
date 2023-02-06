@@ -1,3 +1,4 @@
+
 <img src=https://i.imgur.com/9pGnuXH.png width="80%"/>
 
 Una hash map (nota anche come tabella hash) è una struttura di dati che associa chiavi a valori, permettendo di cercare, inserire e rimuovere elementi in modo efficiente. Le seguenti sono alcune delle caratteristiche più importanti di una hash map:
@@ -32,7 +33,7 @@ Contro:
 
 ## Liste di Trabocco
 
-Le [[liste]] di trabocco sono una soluzione per gestire le collisioni nella creazione di una tabella hash. Queste liste vengono utilizzate quando più chiavi hanno lo stesso valore hash e vengono memorizzate nella stessa posizione nella tabella hash.
+Le [[Liste]] di trabocco sono una soluzione per gestire le collisioni nella creazione di una tabella hash. Queste liste vengono utilizzate quando più chiavi hanno lo stesso valore hash e vengono memorizzate nella stessa posizione nella tabella hash.
 
 Invece di risolvere la collisione cercando un'altra posizione nella tabella hash come nel caso di hashing lineare o quadratico, le liste di trabocco creano una lista di elementi che condividono lo stesso valore hash e li inseriscono in questa lista. Questa lista viene quindi percorsa per trovare la chiave desiderata.
 

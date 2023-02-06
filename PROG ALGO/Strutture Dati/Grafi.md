@@ -1,3 +1,4 @@
+
 ![](https://i.imgur.com/mkQpO7z.png)
 
 # Caratteristiche
