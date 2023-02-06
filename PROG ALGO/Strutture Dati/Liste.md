@@ -1,3 +1,5 @@
+# Caratteristiche
+
 Le liste sono un tipo di dati utilizzato per rappresentare un insieme di elementi. Possono essere utilizzate per contenere una serie di oggetti di qualsiasi tipo, come numeri, stringhe, oggetti, [[array]], etc.
 
 Le liste possono essere implementate in molti linguaggi di programmazione, inclusi Python, [[array|JavaScript]], Java, C++, etc., utilizzando diverse strutture dati come array, elenchi, vettori, etc.

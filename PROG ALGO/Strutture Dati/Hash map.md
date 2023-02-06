@@ -1,6 +1,8 @@
 
 <img src=https://i.imgur.com/9pGnuXH.png width="80%"/>
 
+# Caratteristiche
+
 Una hash map (nota anche come tabella hash) è una struttura di dati che associa chiavi a valori, permettendo di cercare, inserire e rimuovere elementi in modo efficiente. Le seguenti sono alcune delle caratteristiche più importanti di una hash map:
  
 1.  Mapping chiave-valore: Una hash map associa una chiave a un valore, permettendo di accedere al valore corrispondente a una chiave specifica in modo rapido.

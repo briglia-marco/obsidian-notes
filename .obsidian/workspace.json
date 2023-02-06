@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/Array.md",
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/Array.md",
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/Array.md",
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/Array.md"
+                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "3fb8df71343403e9",
   "lastOpenFiles": [
-    "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
     "PROG ALGO/Strutture Dati/Alberi Binari.md",
-    "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+    "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
     "PROG ALGO/Strutture Dati/Array.md",
     "PROG ALGO/Strutture Dati/Coda.md",
     "PROG ALGO/Strutture Dati/Grafi.md",
-    "PROG ALGO/Strutture Dati/Pile.md",
+    "PROG ALGO/Strutture Dati/Hash map.md",
     "PROG ALGO/Strutture Dati/Liste.md",
     "PROG ALGO/Strutture Dati/Heap.md",
-    "PROG ALGO/Strutture Dati/Hash map.md"
+    "PROG ALGO/Strutture Dati/Pile.md",
+    "PROG ALGO/Strutture Dati/2-3 Alberi.md"
   ]
 }
