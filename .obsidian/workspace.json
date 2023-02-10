@@ -8,17 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fb8df71343403e9",
+            "id": "12fdc8ce2fcfa578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "file": "PROG ALGO/Semantica e resto/Ricerca binaria.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "357ea9ad831bfc69"
+          }
+        ]
+      },
+      {
+        "id": "a5288d26be6fdbd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373d813e8e5e31b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG ALGO/AA Check List/Check List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "11a9d7c19410ef0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG ALGO/Semantica e resto/Ricerca binaria.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "357ea9ad831bfc69"
           }
         ]
       }
@@ -78,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "file": "PROG ALGO/AA Check List/Check List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+                "file": "PROG ALGO/AA Check List/Check List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/2-3 Alberi.md"
+                "file": "PROG ALGO/AA Check List/Check List.md"
               }
             }
           },
@@ -157,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fb8df71343403e9",
+  "active": "373d813e8e5e31b4",
   "lastOpenFiles": [
-    "PROG ALGO/Strutture Dati/Alberi Binari.md",
-    "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
+    "PROG ALGO/Semantica e resto/Ricerca binaria.md",
+    "PROG ALGO/Semantica e resto/Ricerca lineare.md",
+    "PROG ALGO/Strutture Dati/Lista.md",
+    "lista.md",
     "PROG ALGO/Strutture Dati/Array.md",
-    "PROG ALGO/Strutture Dati/Coda.md",
-    "PROG ALGO/Strutture Dati/Grafi.md",
-    "PROG ALGO/Strutture Dati/Hash map.md",
-    "PROG ALGO/Strutture Dati/Liste.md",
-    "PROG ALGO/Strutture Dati/Heap.md",
-    "PROG ALGO/Strutture Dati/Pile.md",
-    "PROG ALGO/Strutture Dati/2-3 Alberi.md"
+    "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Semantica e resto/Divide-et-impera.md",
+    "PROG ALGO/Semantica e resto/BNF e sintassi.md",
+    "PROG ALGO/Semantica e resto/Linguaggio.md",
+    "PROG ALGO/Semantica e resto/Compilatore.md"
   ]
 }

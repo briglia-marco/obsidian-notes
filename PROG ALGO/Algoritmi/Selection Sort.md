@@ -21,7 +21,7 @@ Vantaggi:
 
 -   È semplice da implementare e capire, poiché utilizza solo due cicli.
 -   È stabile, ovvero mantiene l'ordine relativo degli elementi uguali.
--   Utilizza poco spazio extra, poiché non richiede array o strutture dati aggiuntive.
+-   Utilizza poco spazio extra, poiché non richiede [[array]] o strutture dati aggiuntive.
 
 Svantaggi:
 

@@ -4,7 +4,7 @@
 # Caratteristiche
 
 1.  Nodi figli sono sempre più piccoli del nodo padre    
-2.  Nell’array associato gli indici dei figli sono rispettivamente (partendo da index=0):
+2.  Nell’[[array]] associato gli indici dei figli sono rispettivamente (partendo da index=0):
 	-    [2*i+1] per figlio di Sinistra 
 	-    [2*i+2] per figlio di Destra
 1.  La proprietà di base di un heap è che è un albero binario completo, ovvero un albero in cui tutti i livelli, tranne l'ultimo, sono completamente riempiti e tutti i nodi nell'ultimo livello sono allineati a sinistra.

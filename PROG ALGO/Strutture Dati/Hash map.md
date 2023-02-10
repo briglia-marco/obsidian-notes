@@ -35,7 +35,7 @@ Contro:
 
 ## Liste di Trabocco
 
-Le [[Liste]] di trabocco sono una soluzione per gestire le collisioni nella creazione di una tabella hash. Queste liste vengono utilizzate quando più chiavi hanno lo stesso valore hash e vengono memorizzate nella stessa posizione nella tabella hash.
+Le [[Lista]] di trabocco sono una soluzione per gestire le collisioni nella creazione di una tabella hash. Queste liste vengono utilizzate quando più chiavi hanno lo stesso valore hash e vengono memorizzate nella stessa posizione nella tabella hash.
 
 Invece di risolvere la collisione cercando un'altra posizione nella tabella hash come nel caso di hashing lineare o quadratico, le liste di trabocco creano una lista di elementi che condividono lo stesso valore hash e li inseriscono in questa lista. Questa lista viene quindi percorsa per trovare la chiave desiderata.
 

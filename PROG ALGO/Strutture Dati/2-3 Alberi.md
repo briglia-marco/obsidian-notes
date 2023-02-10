@@ -4,7 +4,7 @@
 # Caratteristiche
 
 Un albero 2-3 è un albero nel quale ogni nodo interno a 2 o 3 figli e tutti i cammini radice/foglia hanno la stessa lunghezza.
-I valori sono posizionati in ordine crescente come su un albero di ricerca binario.
+I valori sono posizionati in ordine crescente come su un [[albero di ricerca binario]].
 
 # Pro e Contro
 

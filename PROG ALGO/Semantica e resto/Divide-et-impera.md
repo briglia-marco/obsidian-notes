@@ -1,0 +1,5 @@
+In informatica, il concetto di "dividi et impera" viene utilizzato per descrivere una strategia di programmazione in cui un problema complesso viene suddiviso in sotto-problemi più semplici e gestibili, che possono essere risolti singolarmente e successivamente combinati per ottenere la soluzione finale. Questo approccio è utile per semplificare la risoluzione di problemi complessi e per rendere il codice più leggibile e manutenibile.
+
+Ad esempio, se si deve scrivere un programma per ordinare una grande quantità di dati, potrebbe essere più semplice suddividere i dati in gruppi più piccoli e ordinarli separatamente, prima di combinarli per ottenere la lista ordinata completa. (ex. [[Merge Sort]])
+
+Il principio di "dividi et impera" viene utilizzato in molte tecniche di programmazione, tra cui la ricorsione, la suddivisione dei compiti in [[thread]] separati e la programmazione parallela.

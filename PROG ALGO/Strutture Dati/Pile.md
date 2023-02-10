@@ -7,7 +7,7 @@ Una pila ('stack' in inglese) è una struttura dati di tipo **LIFO (Last In Firs
 
 Le pile sono utilizzate in molte applicazioni, come l'elaborazione delle espressioni, l'implementazione di chiamate di funzioni ricorsive, la navigazione della cronologia del browser, etc.
 
-In molti linguaggi di programmazione, le pile possono essere implementate utilizzando [[array]] o [[liste]], ma anche tramite classi o strutture dati specifiche. Ad esempio, in Python, è possibile utilizzare la classe "list" per implementare una pila, ma esiste anche la classe "collections.deque" che fornisce un'implementazione più efficiente della pila.
+In molti linguaggi di programmazione, le pile possono essere implementate utilizzando [[array]] o [[Lista]], ma anche tramite classi o strutture dati specifiche. Ad esempio, in Python, è possibile utilizzare la classe "list" per implementare una pila, ma esiste anche la classe "collections.deque" che fornisce un'implementazione più efficiente della pila.
 
 Le operazioni di base su una pila sono la "push" (inserimento di un elemento nella pila) e la "pop" (rimozione dell'elemento in cima alla pila). Inoltre, è anche possibile accedere all'elemento in cima alla pila senza rimuoverlo, utilizzando l'operazione "peek".
 

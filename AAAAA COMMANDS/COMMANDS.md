@@ -67,7 +67,7 @@ function sum_array(array){
 <!-- Task List -->
 * [x] studio
 * [ ] cucinare
-* [ ] scopare il cirdulero
+* [x] scopare il cirdulero
 * [x] viva gesù
 
 <!-- Linked Notes -->
