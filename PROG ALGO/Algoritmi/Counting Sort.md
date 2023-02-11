@@ -1,4 +1,4 @@
-# Introduzione
+# Caratteristiche
 
 Il Counting Sort è un algoritmo di ordinamento basato sulla distribuzione dei valori nell'input. Funziona contando il numero di volte che ogni valore appare nell'input e utilizzando queste informazioni per stabilire la posizione di ciascun elemento nell'output ordinato.
 
