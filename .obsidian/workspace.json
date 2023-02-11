@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Semantica e resto/DFS.md",
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Semantica e resto/DFS.md",
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Semantica e resto/DFS.md",
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Semantica e resto/DFS.md"
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "284ea3c17f11e4b4",
   "lastOpenFiles": [
-    "PROG ALGO/Semantica e resto/BFS.md",
     "PROG ALGO/Semantica e resto/DFS.md",
+    "PROG ALGO/Semantica e resto/BFS.md",
     "PROG ALGO/AA Check List/Check List.md",
     "PROG ALGO/Semantica e resto/P - NP.md",
     "PROG ALGO/Algoritmi/Counting Sort.md",
