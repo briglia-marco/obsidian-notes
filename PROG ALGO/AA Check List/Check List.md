@@ -84,11 +84,11 @@
 * [ ] [[Greedy]] (zaino frazionario) 
 ---
 * [ ] [[Grafi]]
-	* [ ] BFS (vedi Cormen, con dimostrazione di: Lemma 22.1, 22.2,  e Teorema 22.5, almeno l’idea intuitiva)
-	* [ ] DFS (vedi Cormen, con dimostrazione dei  Teoremi 22.7, 22.8 e 22.10, almeno l’idea intuitiva)
-	* [ ] Topological sort (vedi Cormen, con dimostrazione del Lemma 22.11 e del Teorema 22.12)
+	* [ ] [[BFS]] (vedi Cormen, con dimostrazione di: Lemma 22.1, 22.2,  e Teorema 22.5, almeno l’idea intuitiva)
+	* [ ] [[DFS]] (vedi Cormen, con dimostrazione dei  Teoremi 22.7, 22.8 e 22.10, almeno l’idea intuitiva)
+	* [ ] [[Topological sort]] (vedi Cormen, con dimostrazione del Lemma 22.11 e del Teorema 22.12)
 	* [x] Cammini minimi (Dijkstra, Bellman-Ford - da appunti, no dimostrazioni)
 ---
 * [ ] [[P - NP]] (vedi appunti)
-	* [ ] Definizioni di P, NP, NP-arduo, NP-completo
-	* [ ] Esempio di riduzione 3SAT
+	* [x] Definizioni di P, NP, NP-arduo, NP-completo
+	* [ ] Esempio di riduzione [[3SAT]]

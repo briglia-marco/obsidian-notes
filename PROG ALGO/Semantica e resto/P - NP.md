@@ -14,6 +14,18 @@ Classe di problemi decisionali che ammettono [[certificati]] verificabili in tem
 - In un problema decisionale siamo interessati a verificare se un'istanza del problema soddisfa una certa proprietà
 - Si richiede di fornire anche un oggetto y, dipendente da x e dal problema, che attesti il fatto che x rispetti la proprietà
 
-## NP completi e NP-Arduo
+# NP completi e NP-Arduo
 
-se ∃
+se ∃ problema P che risolve uno solo di questi problemi => P=NP
+==> o tutti o nessuno
+
+## NP-Completo
+
+Un prolema decisionale P1 = NP-Completo se:
+- P1 ∈ a NP
+- P1 => NP-Arduo
+
+## NP-Arduo
+
+Un problema decisionale P1 = NP-Arduo se:
+		- ∀q ∈ NP -> riducibile a P1

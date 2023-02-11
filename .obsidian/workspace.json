@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
-                "mode": "preview",
+                "file": "Topological sort.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "file": "PROG ALGO/Semantica e resto/DFS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "284ea3c17f11e4b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG ALGO/Semantica e resto/DFS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "file": "PROG ALGO/Semantica e resto/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "file": "PROG ALGO/Semantica e resto/DFS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md"
+                "file": "PROG ALGO/Semantica e resto/DFS.md"
               }
             }
           },
@@ -171,17 +184,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "88075b25da8ef089",
+  "active": "284ea3c17f11e4b4",
   "lastOpenFiles": [
-    "PROG ALGO/Semantica e resto/P - NP.md",
+    "PROG ALGO/Semantica e resto/BFS.md",
+    "PROG ALGO/Semantica e resto/DFS.md",
     "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Semantica e resto/P - NP.md",
     "PROG ALGO/Algoritmi/Counting Sort.md",
-    "Untitled.md",
-    "PROG ALGO/Semantica e resto/Ricerca binaria.md",
-    "PROG ALGO/Semantica e resto/Divide-et-impera.md",
-    "PROG ALGO/Algoritmi/Merge Sort.md",
-    "PROG ALGO/Semantica e resto/Ricerca lineare.md",
-    "PROG ALGO/Semantica e resto/Linguaggio.md",
-    "PROG ALGO/Semantica e resto/Grammatica.md"
+    "PROG ALGO/Algoritmi/Insertion Sort.md",
+    "Topological sort.md",
+    "PROG ALGO/Strutture Dati/Pila.md",
+    "PROG ALGO/Semantica e resto/3SAT.md",
+    "Untitled.md"
   ]
 }
