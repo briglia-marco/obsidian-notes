@@ -2,7 +2,7 @@ La **ricerca binaria** è un algoritmo di ricerca efficiente utilizzato per trov
 
 La ricerca binaria è molto più efficiente rispetto ad altri algoritmi di ricerca, poiché riduce il numero di confronti necessari per trovare l'elemento. La complessità temporale della ricerca binaria è O(log n), dove n è il numero di elementi nella lista.
 
-La ricerca binaria è utilizzata in molte applicazioni informatiche, tra cui la ricerca di un elemento in un [[dizionario]], la ricerca di un elemento in un elenco di nomi, la ricerca di un elemento in un [[array]] ordinato, la ricerca di un elemento in una [[tabella hash]] e molte altre.
+La ricerca binaria è utilizzata in molte applicazioni informatiche, tra cui la ricerca di un elemento in un [[dizionario]], la ricerca di un elemento in un elenco di nomi, la ricerca di un elemento in un [[array]] ordinato, la ricerca di un elemento in una [[Hash map]] e molte altre.
 
 # Algoritmo
 

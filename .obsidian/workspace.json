@@ -4,57 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "063813bd0efa5020",
+        "id": "7e7e74f33ef81fb9",
         "type": "tabs",
         "children": [
           {
-            "id": "12fdc8ce2fcfa578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROG ALGO/Semantica e resto/Ricerca binaria.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "357ea9ad831bfc69"
-          }
-        ]
-      },
-      {
-        "id": "a5288d26be6fdbd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "373d813e8e5e31b4",
+            "id": "ca7fb98bfe818f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "PROG ALGO/AA Check List/Check List.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "11a9d7c19410ef0f",
+            "id": "88075b25da8ef089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Semantica e resto/Ricerca binaria.md",
+                "file": "PROG ALGO/Semantica e resto/P - NP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "357ea9ad831bfc69"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
+                "file": "PROG ALGO/Semantica e resto/P - NP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
+                "file": "PROG ALGO/Semantica e resto/P - NP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md"
+                "file": "PROG ALGO/Semantica e resto/P - NP.md"
               }
             }
           },
@@ -183,25 +163,25 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "373d813e8e5e31b4",
+  "active": "09cee194a0dec212",
   "lastOpenFiles": [
-    "PROG ALGO/Semantica e resto/Ricerca binaria.md",
-    "PROG ALGO/Semantica e resto/Ricerca lineare.md",
-    "PROG ALGO/Strutture Dati/Lista.md",
-    "lista.md",
-    "PROG ALGO/Strutture Dati/Array.md",
     "PROG ALGO/AA Check List/Check List.md",
+    "Untitled.md",
+    "PROG ALGO/Semantica e resto/Ricerca binaria.md",
     "PROG ALGO/Semantica e resto/Divide-et-impera.md",
-    "PROG ALGO/Semantica e resto/BNF e sintassi.md",
+    "PROG ALGO/Algoritmi/Merge Sort.md",
+    "PROG ALGO/Semantica e resto/Ricerca lineare.md",
     "PROG ALGO/Semantica e resto/Linguaggio.md",
-    "PROG ALGO/Semantica e resto/Compilatore.md"
+    "PROG ALGO/Semantica e resto/Grammatica.md",
+    "PROG ALGO/Semantica e resto/Compilatore.md",
+    "PROG ALGO/Semantica e resto/BNF e sintassi.md"
   ]
 }
