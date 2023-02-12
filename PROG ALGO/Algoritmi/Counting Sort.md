@@ -1,6 +1,6 @@
 # Caratteristiche
 
-Il Counting Sort è un algoritmo di ordinamento basato sulla distribuzione dei valori nell'input. Funziona contando il numero di volte che ogni valore appare nell'input e utilizzando queste informazioni per stabilire la posizione di ciascun elemento nell'output ordinato.
+Il Counting Sort è un algoritmo di ordinamento basato sulla distribuzione dei valori nv2nell'input. Funziona contando il numero di volte che ogni valore appare nell'input e utilizzando queste informazioni per stabilire la posizione di ciascun elemento nell'output ordinato.
 
 Il Counting Sort è utilizzato quando i valori nell'input sono limitati a un intervallo noto e fisso di valori possibili. In altre parole, se i valori nell'input appartengono a un insieme finito di valori distinti, si può utilizzare il Counting Sort. Questo lo rende particolarmente utile per la ordinazione di array di interi o di valori che possono essere facilmente mappati su un intervallo limitato di interi.
 
@@ -36,7 +36,7 @@ function countingSort(arr, k)
         
     // Copiamo gli elementi ordinati nell'array originale
     for i = 0 to length(arr) - 1
-        arr[i] = output[i]
+        arr[i] = output[i]  
 ```
 
 # Pro e Contro
@@ -61,4 +61,6 @@ Contro:
 
 | Caso Migliore | Caso Medio | Caso Peggiore |
 | ------------- | ---------- | ------------- |
-| O(n+k)      | O(n+k)   | O(n^2)        |
+| O(n+k)        | O(n+k)     | O(n^2)        |
+|               |            |               |
+

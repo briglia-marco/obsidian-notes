@@ -3,5 +3,8 @@
   "translucency": true,
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono"
 }
