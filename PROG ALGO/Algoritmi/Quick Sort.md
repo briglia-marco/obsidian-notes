@@ -1,31 +1,40 @@
 # Pseudocodice
 
 ```js
-function quicksort(A: array di elementi, inizio: indice, fine: indice)
-   //se ci sono ancora elementi da ordinare
-   if inizio < fine
-       //scegliere un elemento pivot e suddividi l'array in due parti
-       pivotIndex := partition(A, inizio, fine)
-       //ordina la parte sinistra dell'array
-       quicksort(A, inizio, pivotIndex)
-       //ordina la parte destra dell'array
-       quicksort(A, pivotIndex + 1, fine)
-   fine procedura
+function quicksort(A, inizio, fine) {
+  //se ci sono ancora elementi da ordinare
+  if (inizio < fine) {
+    //scegliere un elemento pivot e suddividi l'array in due parti
+    var pivotIndex = partition(A, inizio, fine);
+    //ordina la parte sinistra dell'array
+    quicksort(A, inizio, pivotIndex);
+    //ordina la parte destra dell'array
+    quicksort(A, pivotIndex + 1, fine);
+  }
+}
 
-funzione partition(A: array di elementi, inizio: indice, fine: indice)
-   pivot := A[fine]
-   //indice utilizzato per scambiare gli elementi
-   i := inizio - 1
-   //iteriamo sull'array
-   per j := inizio a fine - 1
-       if A[j] <= pivot
-           i := i + 1
-           scambia A[i] con A[j]
-   //alla fine scambiamo l'elemento pivot con quello alla posizione "i+1"
-   scambia A[i + 1] con A[fine]
-   //questa è la posizione del pivot
-   ritorna i + 1
-fine funzione
+function partition(A, inizio, fine) {
+  var pivot = A[fine];
+  //indice utilizzato per scambiare gli elementi
+  var i = inizio - 1;
+  //iteriamo sull'array
+  for (var j = inizio; j < fine; j++) {
+    if (A[j] <= pivot) {
+      i++;
+      //scambia A[i] con A[j]
+      var temp = A[i];
+      A[i] = A[j];
+      A[j] = temp;
+    }
+  }
+  //alla fine scambiamo l'elemento pivot con quello alla posizione "i+1"
+  var temp = A[i + 1];
+  A[i + 1] = A[fine];
+  A[fine] = temp;
+  //questa è la posizione del pivot
+  return i + 1;
+}
+
 ```
 
 # Pro e Contro

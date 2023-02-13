@@ -1,18 +1,18 @@
 # Pseudocodice
 
 ```js
-function selectionSort(A: array of items)
-   for i = 0 to length[A]-1
-       minIndex = i 
-       for j = i+1 to length[A] 
-           if A[j] < A[minIndex] 
-           //"minIndex" viene aggiornato con l'indice corrente "j"
-               minIndex = j  
-       end for
-       //Gli elementi "A[i]" e "A[minIndex]" vengono scambiati 
-       swap A[i] and A[minIndex] 
-   end for
-end procedure
+function selectionSort(A) {
+  for (let i = 0; i < A.length - 1; i++) {
+    let minIndex = i;
+    for (let j = i + 1; j < A.length; j++) {
+      if (A[j] < A[minIndex]) {
+        minIndex = j;
+      }
+    }
+    [A[i], A[minIndex]] = [A[minIndex], A[i]];
+  }
+}
+
 ```
 
 # Pro e Contro

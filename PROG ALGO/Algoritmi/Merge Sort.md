@@ -1,58 +1,56 @@
 # Pseudocodice
 
 ```js
-function mergesort(A: array di elementi, inizio: indice, fine: indice)
-   //se ci sono ancora elementi da ordinare
-   if(inizio < fine)
-       //calcoliamo la metà dell'array
-       var metà := (inizio + fine) / 2
-       //ordiniamo la prima metà dell'array
-       mergesort(A, inizio, metà)
-       //ordiniamo la seconda metà dell'array
-       mergesort(A, metà + 1, fine)
-       //uniamo le due metà ordinate
-       merge(A, inizio, metà, fine)
-   fine procedura
+function mergesort(A, start, end) {
+  if (start < end) {
+    let mid = Math.floor((start + end) / 2);
+    mergesort(A, start, mid);
+    mergesort(A, mid + 1, end);
+    merge(A, start, mid, end);
+  }
+}
 
-function merge(A: array di elementi, inizio: indice, metà: indice, fine: indice)
-   //lunghezza delle due metà da unire
-   lunghezzaSx := metà - inizio + 1
-   lunghezzaDx := fine - metà
+function merge(A, start, mid, end) {
+  let leftLength = mid - start + 1;
+  let rightLength = end - mid;
+  let left = [];
+  let right = [];
 
-   //creiamo due array temporanei per la prima e la seconda metà
-   sinistra[1..lunghezzaSx + 1]
-   destra[1..lunghezzaDx + 1]
+  for (let i = 0; i < leftLength; i++) {
+    left[i] = A[start + i];
+  }
+  for (let j = 0; j < rightLength; j++) {
+    right[j] = A[mid + 1 + j];
+  }
 
-   //copiamo gli elementi nei due array temporanei
-   per i := 1 a lunghezzaSx
-       sinistra[i] := A[inizio + i - 1]
-   per j := 1 a lunghezzaDx
-       destra[j] := A[metà + j]
-      
-   //inizializziamo i, j, k come indici per sinistra, destra e A
-   i := 1
-   j := 1
-   k := inizio
+  let i = 0;
+  let j = 0;
+  let k = start;
 
-   //uniamo i due array temporanei ordinati in A
-   per k := inizio a fine
-       if i > lunghezzaSx
-           //se abbiamo finito con la prima metà, aggiungiamo gli elementi rimanenti della seconda metà
-           A[k] := destra[j]
-           j := j + 1
-       altrimenti se j > lunghezzaDx
-           //se abbiamo finito con la seconda metà, aggiungiamo gli elementi rimanenti della prima metà
-           A[k] := sinistra[i]
-           i := i + 1
-       altrimenti se sinistra[i] < destra[j]
-           //se è minore, lo aggiungiamo ad A
-           A[k] := sinistra[i]
-           i := i + 1
-       altrimenti
-           //altrimenti, l'elemento nell'array destra è minore e lo aggiungiamo ad A
-           A[k] := destra[j]
-           j := j + 1
-   return
+  while (i < leftLength && j < rightLength) {
+    if (left[i] <= right[j]) {
+      A[k] = left[i];
+      i++;
+    } else {
+      A[k] = right[j];
+      j++;
+    }
+    k++;
+  }
+
+  while (i < leftLength) {
+    A[k] = left[i];
+    i++;
+    k++;
+  }
+
+  while (j < rightLength) {
+    A[k] = right[j];
+    j++;
+    k++;
+  }
+}
+
 ```
 
 # Pro e Contro
