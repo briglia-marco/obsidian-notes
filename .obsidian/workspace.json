@@ -19,8 +19,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "622e401b7bb28702",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b5a4faf8d019680",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8df52fe3451265f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +178,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc347f812fdd0b50",
+  "active": "09cee194a0dec212",
   "lastOpenFiles": [
+    "PROG ALGO/AA Check List/Check List.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
     "prova.md",
     "Ricerca Operativa/Terzo compitino/Programmazione Lineare.md",
