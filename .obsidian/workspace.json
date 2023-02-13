@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Selezione randomizzata.md",
-                "mode": "source",
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Selezione randomizzata.md",
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Selezione randomizzata.md",
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Selezione randomizzata.md"
+                "file": "PROG ALGO/Algoritmi/Counting Sort.md"
               }
             }
           },
