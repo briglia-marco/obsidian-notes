@@ -40,7 +40,7 @@
 		* [x] [[Radix sort]]
 ---
 * [x] [[Divide-et-impera]]: definizione e problemi
-* [ ] Il problema delle selezione: [[Selezione randomizzata]] (vedi Cormen)
+* [x] Il problema delle selezione: [[Selezione randomizzata]] (vedi Cormen)
 * [ ] [[Equazioni di ricorrenza]] e loro risoluzione (vedi Cormen)
 	* [ ] Metodo iterativo
 	* [ ] Risoluzione mediante albero
