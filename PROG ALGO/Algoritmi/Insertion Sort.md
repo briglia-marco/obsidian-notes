@@ -1,13 +1,18 @@
 # Pseudocodice
 ```js
-function insertionSort(A: array of item) 
-   for i = 1 to length[A] 
-       j = i 
-       while j > 0 and A[j-1] > A[j] //controlla se j>0 e se l'elemento prima di "A[j]" è maggiore di "A[j]"
-           swap A[j] and A[j-1] 
-           j = j - 1 
-		// j viene decrementato di 1 per continuare il confronto con l'elemento precedente
-   end procedure
+function insertionSort(A) {
+  for (let i = 1; i < A.length; i++) {
+    let j = i;
+    
+    //ogni volta porti avanti l'elemento maggiore
+    while (j > 0 && A[j - 1] > A[j]) {
+      [A[j - 1], A[j]] = [A[j], A[j - 1]];
+      j--;
+    }
+    
+  }
+}
+
 ```
 # Pro e Contro
 

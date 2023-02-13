@@ -1,6 +1,6 @@
 # Caratteristiche
 
-Il Counting Sort è un algoritmo di ordinamento basato sulla distribuzione dei valori nv2nell'input. Funziona contando il numero di volte che ogni valore appare nell'input e utilizzando queste informazioni per stabilire la posizione di ciascun elemento nell'output ordinato.
+Il Counting Sort è un algoritmo di ordinamento basato sulla distribuzione dei valori nell'input. Funziona contando il numero di volte che ogni valore appare nell'input e utilizzando queste informazioni per stabilire la posizione di ciascun elemento nell'output ordinato.
 
 Il Counting Sort è utilizzato quando i valori nell'input sono limitati a un intervallo noto e fisso di valori possibili. In altre parole, se i valori nell'input appartengono a un insieme finito di valori distinti, si può utilizzare il Counting Sort. Questo lo rende particolarmente utile per la ordinazione di array di interi o di valori che possono essere facilmente mappati su un intervallo limitato di interi.
 
@@ -10,33 +10,40 @@ Il Counting Sort è molto efficiente in termini di tempo di esecuzione, poiché 
 # Pseudocodice
 
 ```js
-function countingSort(arr, k)
-    // Creiamo un array di contatori di lunghezza k+1
-    countArr = new int[k+1]
+function countingSort(arr){
+  // Creiamo un array di contatori di lunghezza uguale a quella dell'array originale
+  let conta = new Array(arr.length);
 
-    // Inizializziamo tutti i valori del contatore a 0
-    for i = 0 to k
-        countArr[i] = 0
+  // Inizializziamo tutti i valori del contatore a 0
+  for (let i in conta) {
+    conta[i] = 0;
+  }
 
-    // Contiamo quante volte ogni elemento appare nell'array
-    for i = 0 to length(arr) - 1
-        countArr[arr[i]] = countArr[arr[i]] + 1
+  // Contiamo quante volte ogni elemento appare nell'array originale
+  for (let i = 0; i < arr.length; i++) {
+    conta[arr[i]]++;
+  }
 
-    // Sommiamo i contatori per ottenere la posizione di ogni elemento nell'array ordinato
-    for i = 1 to k
-        countArr[i] = countArr[i] + countArr[i-1]
-        
-    // Creiamo un array di output
-    output = new int[length(arr)]
+  // Sommiamo i contatori per ottenere la posizione di ogni elemento nell'array ordinato
+  for (let i = 1; i < conta.length; i++) {
+    conta[i] = conta[i] + conta[i-1];
+  }
 
-    // Inseriamo gli elementi nell'array di output nella posizione corretta in base al contatore
-    for i = length(arr) - 1 downto 0
-        output[countArr[arr[i]]-1] = arr[i]
-        countArr[arr[i]] = countArr[arr[i]] - 1
-        
-    // Copiamo gli elementi ordinati nell'array originale
-    for i = 0 to length(arr) - 1
-        arr[i] = output[i]  
+  // Creiamo un array di output
+  let output = new Array(arr.length);
+
+  // Inseriamo gli elementi nell'array di output nella posizione corretta in base al contatore
+  for (let i in arr) {
+    output[conta[arr[i]]-1] = arr[i];
+    conta[arr[i]]--;
+  }
+
+  // Copiamo gli elementi ordinati nell'array originale
+  for (let i in output) {
+    arr[i] = output[i];
+  }
+}
+
 ```
 
 # Pro e Contro
