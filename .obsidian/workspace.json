@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md",
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Counting Sort.md"
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "284ea3c17f11e4b4",
   "lastOpenFiles": [
+    "PROG ALGO/Algoritmi/Counting Sort.md",
     "PROG ALGO/Semantica e resto/3SAT.md",
     "PROG ALGO/Algoritmi/Insertion Sort.md",
     "PROG ALGO/Algoritmi/Selection Sort.md",
@@ -188,7 +189,6 @@
     "PROG ALGO/Algoritmi/Selezione randomizzata.md",
     "PROG ALGO/Algoritmi/Quick Sort.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
-    "PROG ALGO/Algoritmi/Counting Sort.md",
     "PROG ALGO/Semantica e resto/DFS.md",
     "PROG ALGO/Semantica e resto/BFS.md"
   ]
