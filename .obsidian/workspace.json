@@ -40,8 +40,13 @@
             "id": "c8df52fe3451265f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programmazione dinamica.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programmazione dinamica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programmazione dinamica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programmazione dinamica.md"
+              }
             }
           },
           {
@@ -178,7 +187,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "09cee194a0dec212",
+  "active": "c8df52fe3451265f",
   "lastOpenFiles": [
     "PROG ALGO/AA Check List/Check List.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
