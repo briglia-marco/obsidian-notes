@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Quick Sort.md",
+                "file": "PROG ALGO/Algoritmi/Merge Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Quick Sort.md",
+                "file": "PROG ALGO/Algoritmi/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Quick Sort.md",
+                "file": "PROG ALGO/Algoritmi/Merge Sort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Quick Sort.md"
+                "file": "PROG ALGO/Algoritmi/Merge Sort.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "9cf4ac4cc9e7660a",
   "lastOpenFiles": [
-    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
     "PROG ALGO/Algoritmi/Quick Sort.md",
+    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
     "PROG ALGO/Semantica e resto/Longest Common Subsequence (LCS).md",
     "PROG ALGO/Semantica e resto/Linguaggio.md",
     "PROG ALGO/Semantica e resto/Grammatica.md",
