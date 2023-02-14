@@ -1,0 +1,7 @@
+Il concetto di sottostruttura ottima (o optimal substructure in inglese) è uno dei principali concetti della [[programmazione dinamica]]. Una sottostruttura ottima si verifica quando la soluzione ottima di un problema può essere ottenuta combinando le soluzioni ottimali di sotto-problemi più piccoli.
+
+In altre parole, una soluzione di un problema di dimensioni maggiori può essere ottenuta combinando le soluzioni dei suoi sotto-problemi di dimensioni minori. Questo concetto è importante perché consente di decomporre un problema complesso in sotto-problemi più piccoli e gestibili, semplificando così la loro soluzione ([[Divide-et-impera]]).
+
+Ad esempio, nell'algoritmo di programmazione dinamica per il problema della sequenza di Fibonacci, la sottostruttura ottima è che la soluzione del problema delle n-esime sequenze di Fibonacci può essere ottenuta combinando le soluzioni del problema delle (n-1)-esima e della (n-2)-esima sequenza di Fibonacci.
+
+La scoperta di sottostrutture ottimali è spesso il primo passo per la progettazione di un algoritmo di programmazione dinamica, poiché consente di decomporre un problema in sotto-problemi e di utilizzare la memoization per evitare di calcolare ripetutamente le soluzioni ai sotto-problemi.

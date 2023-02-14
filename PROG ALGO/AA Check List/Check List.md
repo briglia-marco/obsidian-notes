@@ -1,3 +1,4 @@
+
 * [x] Sintassi e grammatiche
 	* [x] Definizione di [[Grammatica]]
 	* [x] Definizione di [[Linguaggio]]
@@ -77,9 +78,9 @@
 	* [x] Operazioni di ricerca, inserimento e cancellazione e loro costi
 ---
 * [ ] [[Programmazione dinamica]]
-	* [ ] Longest Common Subsequence
-	* [ ] Edit Distance
-	* [ ] Zaino
+	* [ ] [[Longest Common Subsequence (LCS)]]
+	* [ ] [[Edit Distance]]
+	* [ ] [[Zaino]]
 ---
 * [ ] [[Greedy]] (zaino frazionario) 
 ---
