@@ -26,7 +26,7 @@ Le caratteristiche principali di una coda FIFO sono:
 6.  Modelli di accesso: 
 	- Le code possono essere configurate per supportare diversi modelli di accesso, come ad esempio l'accesso in sola lettura o l'accesso in sola scrittura.
 
->In JS non esiste una struttura Cosa, quindi o crei una classe o utilizzi metodi degli array per gestirlo come una coda
+>In JS non esiste una struttura Coda, quindi o crei una classe o utilizzi metodi degli array per gestirlo come una coda
 
 # Metodi
 

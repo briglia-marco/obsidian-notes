@@ -78,7 +78,7 @@
 	* [x] Operazioni di ricerca, inserimento e cancellazione e loro costi
 ---
 * [ ] [[Programmazione dinamica]]
-	* [ ] [[Longest Common Subsequence (LCS)]]
+	* [x] [[Longest Common Subsequence (LCS)]]
 	* [ ] [[Edit Distance]]
 	* [ ] [[Zaino]]
 ---
