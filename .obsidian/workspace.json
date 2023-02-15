@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3addb4159da09178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zaino.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9cf4ac4cc9e7660a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Merge Sort.md",
+                "file": "Greedy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Merge Sort.md",
+                "file": "Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Merge Sort.md",
+                "file": "Greedy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Merge Sort.md"
+                "file": "Greedy.md"
               }
             }
           },
@@ -159,15 +173,15 @@
   },
   "active": "9cf4ac4cc9e7660a",
   "lastOpenFiles": [
-    "PROG ALGO/Algoritmi/Quick Sort.md",
-    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
-    "PROG ALGO/Semantica e resto/Longest Common Subsequence (LCS).md",
-    "PROG ALGO/Semantica e resto/Linguaggio.md",
-    "PROG ALGO/Semantica e resto/Grammatica.md",
-    "PROG ALGO/Semantica e resto/Divide-et-impera.md",
-    "PROG ALGO/Semantica e resto/DFS.md",
+    "Zaino.md",
+    "Greedy.md",
+    "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Semantica e resto/Edit Distance.md",
+    "PROG ALGO/Algoritmi/Selection Sort.md",
     "PROG ALGO/Semantica e resto/Compilatore.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
-    "PROG ALGO/Semantica e resto/Topological sort.md"
+    "PROG ALGO/Algoritmi/Quick Sort.md",
+    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
+    "PROG ALGO/Semantica e resto/Longest Common Subsequence (LCS).md"
   ]
 }

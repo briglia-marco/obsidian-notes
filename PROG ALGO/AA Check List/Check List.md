@@ -77,10 +77,10 @@
 	* [x] Definizione, e altezza nel caso peggiore e ottimo
 	* [x] Operazioni di ricerca, inserimento e cancellazione e loro costi
 ---
-* [ ] [[Programmazione dinamica]]
+* [x] [[Programmazione dinamica]]
 	* [x] [[Longest Common Subsequence (LCS)]]
-	* [ ] [[Edit Distance]]
-	* [ ] [[Zaino]]
+	* [x] [[Edit Distance]]
+	* [x] [[Zaino]]
 ---
 * [ ] [[Greedy]] (zaino frazionario) 
 ---
