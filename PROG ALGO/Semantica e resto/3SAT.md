@@ -15,3 +15,29 @@ In questo esempio, possiamo trasformare la formula logica in tre nodi: un nodo p
 Infine, possiamo risolvere il problema tramite l'algoritmo 2SAT. L'algoritmo 2SAT consiste nell'esaminare ogni nodo e nell'assegnare un valore di vero o falso in modo che la formula logica sia soddisfacente.
 
 In questo esempio, l'algoritmo 2SAT garantirà che la formula logica sia soddisfacente seguendo uno dei due archi per ogni nodo. La soluzione finale dipenderà dalla scelta degli archi che vengono seguiti.
+
+# Esempio
+
+Supponiamo di avere la seguente istanza di 3SAT:
+
+$(x_1 \lor \neg x_2 \lor x_3) \land (\neg x_1 \lor x_2 \lor \neg x_3) \land (\neg x_1 \lor \neg x_2 \lor x_3)$
+
+Per ridurre questa istanza di 3SAT ad un'istanza di problema di soddisfacibilità booleana (SAT), possiamo usare la seguente tecnica:
+
+Per ogni clausola $(x_i \lor x_j \lor x_k)$, dove $x_i$, $x_j$ e $x_k$ sono letterali, creiamo una nuova variabile $y_c$ e le due clausole:
+
+$(\neg x_i \lor \neg x_j \lor y_c)$
+
+$(\neg y_c \lor x_i)$, $(\neg y_c \lor x_j)$, $(\neg y_c \lor x_k)$
+
+In questo modo, la clausola $(x_i \lor x_j \lor x_k)$ è equivalente alla clausola $(\neg x_i \lor \neg x_j \lor y_c)$ se e solo se $y_c$ è vero, e le clausole $(\neg y_c \lor x_i)$, $(\neg y_c \lor x_j)$, $(\neg y_c \lor x_k)$ sono soddisfatte.
+
+Applicando questa tecnica all'istanza di 3SAT iniziale, otteniamo le seguenti clausole:
+
+$(\neg x_1 \lor \neg x_2 \lor y_1)$, $(\neg y_1 \lor x_1)$, $(\neg y_1 \lor x_2)$, $(\neg y_1 \lor x_3)$
+
+$(\neg x_1 \lor x_2 \lor \neg y_2)$, $(\neg y_2 \lor x_1)$, $(\neg y_2 \lor \neg x_2)$, $(\neg y_2 \lor x_3)$
+
+$(\neg x_1 \lor \neg x_2 \lor y_3)$, $(\neg y_3 \lor x_1)$, $(\neg y_3 \lor x_2)$, $(\neg y_3 \lor x_3)$
+
+Ora possiamo risolvere l'istanza di SAT utilizzando un algoritmo di soddisfacibilità booleana come ad esempio l'algoritmo DPLL.

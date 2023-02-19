@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zaino.md",
+                "file": "PROG ALGO/AA Check List/Check List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy.md",
+                "file": "PROG ALGO/Semantica e resto/Zaino.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greedy.md",
+                "file": "PROG ALGO/AA Check List/Check List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Greedy.md",
+                "file": "PROG ALGO/AA Check List/Check List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Greedy.md"
+                "file": "PROG ALGO/AA Check List/Check List.md"
               }
             }
           },
@@ -171,17 +170,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9cf4ac4cc9e7660a",
+  "active": "3addb4159da09178",
   "lastOpenFiles": [
-    "Zaino.md",
-    "Greedy.md",
+    "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
+    "PROG ALGO/Semantica e resto/Zaino.md",
     "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Semantica e resto/3SAT.md",
+    "PROG ALGO/Semantica e resto/Greedy.md",
     "PROG ALGO/Semantica e resto/Edit Distance.md",
     "PROG ALGO/Algoritmi/Selection Sort.md",
     "PROG ALGO/Semantica e resto/Compilatore.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
-    "PROG ALGO/Algoritmi/Quick Sort.md",
-    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
-    "PROG ALGO/Semantica e resto/Longest Common Subsequence (LCS).md"
+    "PROG ALGO/Algoritmi/Quick Sort.md"
   ]
 }

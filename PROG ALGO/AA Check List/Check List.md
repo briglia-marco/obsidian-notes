@@ -35,7 +35,7 @@
 			* [ ] Dimostrazione di correttezza
 			* [x] Complessità al caso peggiore
 			* [ ] Dimostrazione complessità al caso medio
-		* [ ] Dimostrazione lower bound Ω(n log n) problema di ordinamento per confronti
+		* [x] Dimostrazione [[Lower bound Ω(n log n)]] problema di ordinamento per confronti
 	* [x] Ordinamenti senza confronti (vedi Cormen e appunti)
 		* [x] [[Counting sort]]
 		* [x] [[Radix sort]]
@@ -82,7 +82,7 @@
 	* [x] [[Edit Distance]]
 	* [x] [[Zaino]]
 ---
-* [ ] [[Greedy]] (zaino frazionario) 
+* [x] [[Greedy]] (zaino frazionario) 
 ---
 * [x] [[Grafi]]
 	* [x] [[BFS]] (vedi Cormen, con dimostrazione di: Lemma 22.1, 22.2,  e Teorema 22.5, almeno l’idea intuitiva)
