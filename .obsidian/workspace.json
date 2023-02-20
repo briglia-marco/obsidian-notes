@@ -11,22 +11,17 @@
             "id": "3addb4159da09178",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "9cf4ac4cc9e7660a",
+            "id": "638a511e5b7468ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Semantica e resto/Zaino.md",
+                "file": "PROG ALGO/Algoritmi/Quick Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,15 +163,15 @@
   },
   "active": "3addb4159da09178",
   "lastOpenFiles": [
-    "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
-    "PROG ALGO/Semantica e resto/Zaino.md",
     "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Algoritmi/Quick Sort.md",
+    "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
+    "PROG ALGO/Algoritmi/Merge Sort.md",
+    "PROG ALGO/Algoritmi/Insertion Sort.md",
+    "PROG ALGO/Algoritmi/Selection Sort.md",
+    "PROG ALGO/Semantica e resto/Zaino.md",
     "PROG ALGO/Semantica e resto/3SAT.md",
     "PROG ALGO/Semantica e resto/Greedy.md",
-    "PROG ALGO/Semantica e resto/Edit Distance.md",
-    "PROG ALGO/Algoritmi/Selection Sort.md",
-    "PROG ALGO/Semantica e resto/Compilatore.md",
-    "PROG ALGO/Algoritmi/Merge Sort.md",
-    "PROG ALGO/Algoritmi/Quick Sort.md"
+    "PROG ALGO/Semantica e resto/Edit Distance.md"
   ]
 }

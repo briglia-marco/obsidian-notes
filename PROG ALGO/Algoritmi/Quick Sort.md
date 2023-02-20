@@ -64,3 +64,27 @@ Svantaggi:
 | Caso Migliore | Caso Medio | Caso Peggiore |
 | ------------- | ---------- | ------------- |
 | O(nlogn)      | O(nlogn)   | O(n^2)        |
+
+# Dimostrazione di Correttezza
+
+Per dimostrare la correttezza del quicksort, dobbiamo dimostrare che l'algoritmo termina correttamente e che alla fine restituisce un [[array]] ordinato. Inoltre, dobbiamo dimostrare che il quicksort mantiene la proprietà dell'invariante di ciclo, ovvero che ogni iterazione del ciclo principale dell'algoritmo preserva l'ordinamento dell'array.
+
+Supponiamo che l'array da ordinare sia A[1...n]. Il quicksort seleziona un elemento pivot e lo posiziona nella sua posizione corretta nell'array ordinato. L'algoritmo quindi ripete questo processo ricorsivamente per le due parti dell'array che si trovano a sinistra e a destra del pivot.
+
+L'invariante di ciclo è che, in ogni iterazione del ciclo principale dell'algoritmo, l'array A[p...q] contiene gli elementi che sono maggiori o uguali al pivot e l'array A[q+1...r] contiene gli elementi che sono minori del pivot. Inoltre, l'array A[p...q] e l'array A[q+1...r] possono essere disposti in qualsiasi ordine, purché gli elementi in A[p...q] siano tutti minori o uguali al pivot e gli elementi in A[q+1...r] siano tutti maggiori del pivot.
+
+Durante l'operazione di partizione, il quicksort sceglie un elemento pivot e divide l'array in due parti. L'algoritmo poi sposta gli elementi maggiori del pivot a destra del pivot e gli elementi minori del pivot a sinistra del pivot. Alla fine di questo processo, l'elemento pivot è posizionato nella sua posizione corretta nell'array ordinato.
+
+In ogni passaggio ricorsivo, il quicksort applica l'operazione di partizione alle due parti dell'array. L'invariante di ciclo viene mantenuta in ogni passaggio ricorsivo e alla fine l'intero array viene ordinato.
+
+# Dimostrazione complessità al caso medio
+
+Supponiamo di avere un array A[1...n] da ordinare. In ogni passaggio dell'algoritmo, il quicksort sceglie un elemento pivot e suddivide l'array in due parti. La scelta del pivot è casuale (nella versione randomizzata) e ogni elemento ha la stessa probabilità di essere scelto come pivot.
+
+In media, il pivot divide l'array in due parti di dimensioni simili. Supponiamo che il pivot divida l'array in due parti di dimensioni p e q, dove p+q=n. Il numero di confronti necessari per ordinare l'array A[1...n] è dato dalla somma del numero di confronti necessari per ordinare le due parti A[1...p] e A[p+1...n], più il numero di confronti necessari per posizionare il pivot nella sua posizione corretta nell'array ordinato.
+
+In media, il numero di confronti necessari per posizionare il pivot nella sua posizione corretta è proporzionale alla dimensione dell'array, ovvero O(n). Inoltre, supponiamo che il quicksort sia correttamente implementato in modo da garantire che l'array sia diviso in due parti di dimensioni simili. In questo caso, il numero di confronti necessari per ordinare l'array A[1...n] è dato dalla somma del numero di confronti necessari per ordinare le due parti A[1...p] e A[p+1...n].
+
+In media, la dimensione delle due parti è n/2. Pertanto, il numero di confronti necessari per ordinare l'array A[1...n] è dato dalla somma del numero di confronti necessari per ordinare due array di dimensione n/2, ovvero T(n) = 2T(n/2) + O(n).
+
+Utilizzando il [[Master Theorem]], possiamo risolvere questa equazione di ricorrenza e ottenere T(n) = O(n log n). In particolare, la complessità al caso medio del quicksort è O(n log n), dove n è la dimensione dell'array da ordinare.

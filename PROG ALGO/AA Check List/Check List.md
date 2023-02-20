@@ -25,16 +25,16 @@
 * [x] Complessità degli algoritmi
 	* [x] Definizione formale di O, Ω, Θ, o, ω (vedi Cormen)
 ---
-* [ ] Algoritmi di ordinamento
-	* [ ] Ordinamento per confronti
+* [x] Algoritmi di ordinamento
+	* [x] Ordinamento per confronti
 		* [x] [[Insertion Sort|Insertion]] e [[Selection sort]]
-			* [ ] Dimostrazione di correttezza e complessità (vedi Cormen)
+			* [x] Dimostrazione di correttezza e complessità (vedi Cormen)
 		* [x] [[Merge Sort]]
-			* [ ] Dimostrazione di correttezza e complessità (vedi Cormen)
+			* [x] Dimostrazione di correttezza e complessità (vedi Cormen)
 		* [x] [[Quick Sort]] (vedi Cormen)
-			* [ ] Dimostrazione di correttezza
+			* [x] Dimostrazione di correttezza
 			* [x] Complessità al caso peggiore
-			* [ ] Dimostrazione complessità al caso medio
+			* [x] Dimostrazione complessità al caso medio
 		* [x] Dimostrazione [[Lower bound Ω(n log n)]] problema di ordinamento per confronti
 	* [x] Ordinamenti senza confronti (vedi Cormen e appunti)
 		* [x] [[Counting sort]]

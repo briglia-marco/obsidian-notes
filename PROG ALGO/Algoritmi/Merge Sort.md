@@ -99,3 +99,16 @@ Svantaggi:
 | ------------- | ---------- | ------------- |
 | O(nlogn)      | O(nlogn)   | O(nlogn)        |
 
+# Dimostrazione di Correttezza
+
+Per dimostrare la correttezza del merge sort, dobbiamo dimostrare che l'algoritmo termina correttamente e che alla fine restituisce un [[array]] ordinato. Inoltre, dobbiamo dimostrare che il merge sort mantiene la proprietà dell'invariante di ciclo, ovvero che ogni iterazione del ciclo principale dell'algoritmo preserva l'ordinamento dell'array.
+
+Supponiamo che l'array da ordinare sia A[1...n]. Il merge sort divide ricorsivamente l'array in due parti, A[1...m] e A[m+1...n], dove m è l'indice di mezzo dell'array. Poi, ordina le due parti separatamente, applicando ricorsivamente il merge sort. Infine, unisce le due parti ordinate in un array ordinato.
+
+L'invariante di ciclo è che, in ogni iterazione del ciclo principale dell'algoritmo, l'array A[1...i-1] è ordinato e contiene i primi i-1 elementi ordinati. Inoltre, l'array A[i...n] contiene gli elementi non ordinati rimanenti.
+
+Durante l'operazione di unione, il merge sort combina due array ordinati A[1...m] e A[m+1...n] in un unico array ordinato. L'algoritmo confronta gli elementi di A[1...m] e A[m+1...n] in ordine e seleziona l'elemento più piccolo, aggiungendolo all'array ordinato. Questo procedimento continua finché tutti gli elementi di entrambe le parti non sono stati inseriti nell'array ordinato.
+
+Alla fine dell'operazione di unione, l'array A[1...n] è ordinato. Infatti, l'operazione di unione ordina gli elementi di A[1...m] e A[m+1...n] in un array ordinato A[1...n]. Inoltre, la proprietà dell'invariante di ciclo viene preservata durante l'operazione di unione.
+
+In ogni passaggio ricorsivo, l'array viene diviso in due parti e il merge sort viene applicato a ciascuna parte separatamente. L'invariante di ciclo viene mantenuta in ogni passaggio ricorsivo e alla fine l'intero array viene unito in un array ordinato.
