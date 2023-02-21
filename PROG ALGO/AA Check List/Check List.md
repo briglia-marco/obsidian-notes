@@ -22,10 +22,10 @@
 		* [ ] Funzioni: dichiarazione (lambda astrazione e chiusure) e chiamata
 		* [ ] Funzioni ricorsive (dichiarazione e chiamata)
 ---
-* [ ] Complessità degli algoritmi
+* [x] Complessità degli algoritmi
 	* [x] Definizione formale di O, Ω, Θ, o, ω (vedi Cormen)
 ---
-* [ ] Algoritmi di ordinamento
+* [x] Algoritmi di ordinamento
 	* [x] Ordinamento per confronti
 		* [x] [[Insertion Sort|Insertion]] e [[Selection sort]]
 			* [x] Dimostrazione di correttezza e complessità (vedi Cormen)
