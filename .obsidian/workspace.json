@@ -19,13 +19,8 @@
             "id": "313a063f93039d1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hi.md"
-              }
+              "state": {}
             }
           },
           {
