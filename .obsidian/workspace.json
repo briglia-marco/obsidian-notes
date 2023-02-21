@@ -32,17 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "816f1d6cbf14ceda",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md"
+              }
             }
           },
           {
@@ -175,17 +171,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "09cee194a0dec212",
+  "active": "3addb4159da09178",
   "lastOpenFiles": [
+    "PROG ALGO/AA Check List/Check List.md",
+    "hola.md",
     "ciao.md",
     "PROG ALGO/Semantica e resto/Master Theorem.md",
     "PROG ALGO/Semantica e resto/Equazioni di ricorrenza.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
     "PROG ALGO/Strutture Dati/Alberi Binari.md",
-    "PROG ALGO/AA Check List/Check List.md",
     "PROG ALGO/Algoritmi/Quick Sort.md",
     "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
-    "PROG ALGO/Algoritmi/Insertion Sort.md",
-    "PROG ALGO/Algoritmi/Selection Sort.md"
+    "PROG ALGO/Algoritmi/Insertion Sort.md"
   ]
 }

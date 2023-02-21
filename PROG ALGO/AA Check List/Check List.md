@@ -44,7 +44,7 @@
 * [x] Il problema delle selezione: [[Selezione randomizzata]] (vedi Cormen)
 * [ ] [[Equazioni di ricorrenza]] e loro risoluzione (vedi Cormen)
 	* [x] Metodo iterativo
-	* [ ] Risoluzione mediante albero
+	* [x] Risoluzione mediante albero
 	* [ ] [[Master Theorem]]
 		* [x] Enunciato
 		* [ ] Dimostrazione
