@@ -37,8 +37,13 @@
             "id": "816f1d6cbf14ceda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hola.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hola.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hola.md"
+              }
             }
           },
           {
@@ -175,8 +184,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "09cee194a0dec212",
+  "active": "816f1d6cbf14ceda",
   "lastOpenFiles": [
+    "ciao.md",
     "PROG ALGO/Semantica e resto/Master Theorem.md",
     "PROG ALGO/Semantica e resto/Equazioni di ricorrenza.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
@@ -185,7 +195,6 @@
     "PROG ALGO/Algoritmi/Quick Sort.md",
     "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
     "PROG ALGO/Algoritmi/Insertion Sort.md",
-    "PROG ALGO/Algoritmi/Selection Sort.md",
-    "PROG ALGO/Semantica e resto/Zaino.md"
+    "PROG ALGO/Algoritmi/Selection Sort.md"
   ]
 }
