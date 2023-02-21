@@ -8,27 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3addb4159da09178",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "638a511e5b7468ff",
+            "id": "317f1f8dbe0d2ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Algoritmi/Quick Sort.md",
+                "file": "PROG ALGO/AA Check List/Check List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3addb4159da09178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PROG ALGO/Semantica e resto/Master Theorem.md"
+              }
             }
           },
           {
@@ -163,15 +173,15 @@
   },
   "active": "3addb4159da09178",
   "lastOpenFiles": [
+    "PROG ALGO/Semantica e resto/Equazioni di ricorrenza.md",
+    "PROG ALGO/Algoritmi/Merge Sort.md",
+    "PROG ALGO/Strutture Dati/Alberi Binari.md",
     "PROG ALGO/AA Check List/Check List.md",
     "PROG ALGO/Algoritmi/Quick Sort.md",
     "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
-    "PROG ALGO/Algoritmi/Merge Sort.md",
     "PROG ALGO/Algoritmi/Insertion Sort.md",
     "PROG ALGO/Algoritmi/Selection Sort.md",
     "PROG ALGO/Semantica e resto/Zaino.md",
-    "PROG ALGO/Semantica e resto/3SAT.md",
-    "PROG ALGO/Semantica e resto/Greedy.md",
-    "PROG ALGO/Semantica e resto/Edit Distance.md"
+    "PROG ALGO/Semantica e resto/3SAT.md"
   ]
 }
