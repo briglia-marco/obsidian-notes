@@ -162,3 +162,11 @@ function dijkstra(grafo, partenza) {
 >La complessità di questo algoritmo è di `O(E + V * log V)`, dove `V` è il numero di vertici e `E` è il numero di archi. Questo rende l'algoritmo molto efficiente per grafi molto sparsi, ma inefficente per grafi densi.
 
 >> Nota: Questo codice utilizza una coda di priorità (`PriorityQueue`), che non è inclusa nella libreria standard di JavaScript. Sarà necessario implementarla o utilizzare una libreria esterna.
+
+# Ordinamento topologico
+
+L'ordinamento topologico è un algoritmo utilizzato per ordinare i nodi di un grafo diretto aciclico (DAG) in modo tale che ogni arco del grafo punti da un nodo precedente a un nodo successivo nell'ordinamento. In altre parole, l'ordinamento topologico definisce un ordinamento lineare dei nodi del DAG in cui ogni nodo è disposto prima di tutti i suoi discendenti.
+
+> Guardo quale nodo ha solo archi uscenti e da lì cerco un cammino che unisca tutti i nodi dell'albero.
+
+

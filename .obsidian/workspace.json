@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
+                "file": "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
+                "file": "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md",
+                "file": "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROG ALGO/AA Check List/Check List.md"
+                "file": "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md"
               }
             }
           },
@@ -159,10 +159,19 @@
   },
   "active": "313a063f93039d1b",
   "lastOpenFiles": [
-    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
-    "PROG ALGO/Algoritmi/Radix Sort.md",
+    "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+    "PROG ALGO/Strutture Dati/Heap.md",
+    "PROG ALGO/Semantica e resto/Edit Distance.md",
+    "PROG ALGO/Semantica e resto/DFS.md",
+    "PROG ALGO/Semantica e resto/Compilatore.md",
+    "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
+    "PROG ALGO/Strutture Dati/Alberi Binari.md",
+    "PROG ALGO/Strutture Dati/Grafi.md",
     "PROG ALGO/Semantica e resto/Master Theorem.md",
     "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
+    "PROG ALGO/Algoritmi/Counting Sort.md",
+    "PROG ALGO/Algoritmi/Radix Sort.md",
     "hi.md",
     "PROG ALGO/Semantica e resto/Divide-et-impera.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
