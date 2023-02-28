@@ -57,3 +57,5 @@
 > What if ...  
   we provide free storage to everybody?
 
+Per i primi otto anni della sua vita, Dropbox ha archiviato miliardi e miliardi di file su Amazons S3
+
