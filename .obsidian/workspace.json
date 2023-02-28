@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee23ed6eeb3f1dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bella.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md",
+                "file": "bella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md",
+                "file": "bella.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md"
+                "file": "bella.md"
               }
             }
           },
@@ -157,10 +171,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "09cee194a0dec212",
+  "active": "ee23ed6eeb3f1dd2",
   "lastOpenFiles": [
-    "CLOUD COMPUTING/AA INDEX/Indice.md",
     "CLOUD COMPUTING/Slides/IaaS.md",
+    "bella.md",
+    "CLOUD COMPUTING/AA INDEX/Indice.md",
     "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
     "ciao.md",
     "AAAAA COMMANDS/COMMANDS.md",

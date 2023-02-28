@@ -59,3 +59,19 @@
 
 Per i primi otto anni della sua vita, Dropbox ha archiviato miliardi e miliardi di file su Amazons S3
 
+## Dropbox’s exodus
+
+- Tra il 2014 e il 2016, Dropbox ha costruito la propria vasta rete di computer e ha spostato il proprio servizio su una nuova generazione di macchine progettate dai propri ingegneri
+- Sfide tecniche e logistiche:
+	- Hardware personalizzato ("Diskotech") contenente un petabyte di dati
+	- Nuovo codice ("Magic Pocket")
+	- Muovere così tanti dati:
+		- Petabyte di dati su Internet (» 1 giorno per trasferire 4 petabyte di dati)
+	- Spostare così tante macchine nei data center:
+		- Installazione di 40-50 rack di hardware al giorno
+		- Incidenti intempestivi: in un periodo di ventiquattro ore, i camion che trasportavano macchine ai data center Dropbox in diverse parti del paese hanno avuto incidenti
+	- Necessità di completare l'esodo prima della scadenza dei contratti principali con Amazon (per evitare il rinnovo)
+	- è stato come cambiare una gomma mentre stai ancora guidando
+	- Magic Pocket non si adattava perfettamente al nuovo hardware, Magic Pocket è stato ricostruito
+	- Dropbox ce l'ha fatta!
+
