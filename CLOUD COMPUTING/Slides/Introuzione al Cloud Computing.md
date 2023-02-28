@@ -70,6 +70,6 @@ Il servizio richiede cambiamenti col tempo, ma nessuno sa prevedere come.
 	- Dove saranno storati i miei dati?
 	- Sarà garantita l'integrità e la privacy?
 	- Come fare se ci dovesse essere un problema?
-- *Business Continuty/ Service Availability*:
+- *Business Continuity/ Service Availability*:
 	- Cosa succede se il mio fornitore Cloud fallisce?
 
