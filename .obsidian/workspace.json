@@ -78,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLOUD COMPUTING/Slides/IaaS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLOUD COMPUTING/Slides/IaaS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CLOUD COMPUTING/Slides/IaaS.md"
+              }
             }
           },
           {
@@ -153,10 +157,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "09cee194a0dec212",
+  "active": "3addb4159da09178",
   "lastOpenFiles": [
-    "CLOUD COMPUTING/Slides/IaaS.md",
     "yo.md",
+    "CLOUD COMPUTING/Slides/IaaS.md",
     "pop.md",
     "bella.md",
     "CLOUD COMPUTING/AA INDEX/Indice.md",

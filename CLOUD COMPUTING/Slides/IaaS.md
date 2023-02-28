@@ -75,3 +75,20 @@ Per i primi otto anni della sua vita, Dropbox ha archiviato miliardi e miliardi 
 	- Magic Pocket non si adattava perfettamente al nuovo hardware, Magic Pocket è stato ricostruito
 	- Dropbox ce l'ha fatta!
 
+## Revenue
+| Dropbox annual revenue | Millions of $ |
+| ---------------------- | ------------- |
+| 2021                   | $2,158        |
+| 2020                   | $1,946        |
+| 2019                   | $1,661        |
+| 2018                   | $1,329        |
+| 2017                   | $1,107        |
+| 2016                   | $845          |
+| 2015                   | $604          |
+
+## Leading vendors' share in the file sharing software market worldwide in 2022
+
+<img src=https://i.imgur.com/6x7kPdJ.png width=70% /> 
+
+
+
