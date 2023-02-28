@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "313a063f93039d1b",
+            "id": "3addb4159da09178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
+                "file": "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md"
+              }
             }
           },
           {
@@ -144,31 +148,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:Open graph view": false
     }
   },
-  "active": "09cee194a0dec212",
+  "active": "3addb4159da09178",
   "lastOpenFiles": [
-    "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
-    "conflict-files-obsidian-git.md",
-    "PROG ALGO/Strutture Dati/2-3 Alberi.md",
-    "PROG ALGO/Strutture Dati/Heap.md",
-    "PROG ALGO/Semantica e resto/Edit Distance.md",
-    "PROG ALGO/Semantica e resto/DFS.md",
-    "PROG ALGO/Semantica e resto/Compilatore.md",
-    "PROG ALGO/Strutture Dati/Alberi Binari.md",
-    "PROG ALGO/Strutture Dati/Grafi.md",
-    "PROG ALGO/Semantica e resto/Master Theorem.md",
+    "CLOUD COMPUTING/AA INDEX/Indice.md",
+    "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
+    "AAAAA COMMANDS/COMMANDS.md",
+    "CLOUD COMPUTING/Slides/Introduzione al corso.md",
     "PROG ALGO/AA Check List/Check List.md",
-    "PROG ALGO/Algoritmi/Selezione randomizzata.md",
-    "PROG ALGO/Algoritmi/Counting Sort.md",
-    "PROG ALGO/Algoritmi/Radix Sort.md",
+    "CLOUD COMPUTING/Slides",
+    "IaaS.md",
+    "CLOUD COMPUTING/IaaS",
+    "CLOUD COMPUTING/AA INDEX",
+    "CLOUD COMPUTING",
+    "PROG ALGO/Semantica e resto/Master Theorem.md",
     "hi.md",
     "PROG ALGO/Semantica e resto/Divide-et-impera.md",
     "PROG ALGO/Algoritmi/Merge Sort.md",
@@ -176,6 +177,7 @@
     "PROG ALGO/Semantica e resto/BNF e sintassi.md",
     "PROG ALGO/Semantica e resto/Grammatica.md",
     "PROG ALGO/Algoritmi/Selection Sort.md",
+    "PROG ALGO/Algoritmi/Radix Sort.md",
     "PROG ALGO/Algoritmi/Insertion Sort.md"
   ]
 }
