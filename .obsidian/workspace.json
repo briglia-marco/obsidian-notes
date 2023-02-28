@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d1d06f28838edf60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ciao.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ciao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ciao.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ciao.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +153,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1d06f28838edf60",
+  "active": "09cee194a0dec212",
   "lastOpenFiles": [
     "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
     "ciao.md",
