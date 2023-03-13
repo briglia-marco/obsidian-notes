@@ -15,6 +15,9 @@ __This text__ is Grassetto
 <!-- Strikethrough -->
 ~~This text~~ is Strikethrough ^5be5e9
 
+<!-- Evidenziare -->
+==Bella Info Brother==
+
 <!-- Horizontal Rule -->
 ___
 
@@ -55,6 +58,10 @@ function sum_array(array){
 }
 ```
 
+~~~ js
+ciao
+~~~
+
 <!-- Tables -->
 | Name | Email | Num Cell |
 | - | - | - |
@@ -72,4 +79,22 @@ function sum_array(array){
 
 <!-- Linked Notes -->
 [[Prova Link Notes]]
+
+> [!idea] Ciao
+> Contenuto
+
+> [!idea]
+> Idea senza titolo custom
+
+> [!bug] docker
+> utile
+
+> [!test] Caccpupu
+> waa
+
+> [!def] ciao
+> bello
+
+
+
 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3addb4159da09178",
+            "id": "1c07264c0685710e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md",
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md",
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md",
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLOUD COMPUTING/Slides/IaaS.md"
+                "file": "PROG ALGO/Algoritmi/Insertion Sort.md"
               }
             }
           },
@@ -157,31 +157,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3addb4159da09178",
+  "active": "1c07264c0685710e",
   "lastOpenFiles": [
-    "yo.md",
-    "CLOUD COMPUTING/Slides/IaaS.md",
-    "pop.md",
-    "bella.md",
-    "CLOUD COMPUTING/AA INDEX/Indice.md",
-    "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
-    "ciao.md",
-    "AAAAA COMMANDS/COMMANDS.md",
-    "CLOUD COMPUTING/Slides/Introduzione al corso.md",
     "PROG ALGO/AA Check List/Check List.md",
+    "PROG ALGO/Semantica e resto/P - NP.md",
+    "PROG ALGO/Semantica e resto/3SAT.md",
+    "PROG ALGO/Semantica e resto/Equazioni di ricorrenza.md",
+    "PROG ALGO/Semantica e resto/Master Theorem.md",
+    "PROG ALGO/Semantica e resto/Divide-et-impera.md",
+    "Record di attivazione.md",
+    "PROG ALGO/Semantica e resto/BNF e sintassi.md",
+    "PROG ALGO/Semantica e resto/Compilatore.md",
+    "PROG ALGO/Semantica e resto/Linguaggio.md",
+    "PROG ALGO/Semantica e resto/Grammatica.md",
+    "PROG ALGO/Strutture Dati/Albero di Ricerca Binario.md",
+    "PROG ALGO/Algoritmi/Insertion Sort.md",
+    "PROG ALGO/Strutture Dati/Alberi Binari.md",
+    "PROG ALGO/Semantica e resto/Ricerca binaria.md",
+    "PROG ALGO/Algoritmi/Counting Sort.md",
+    "PROG ALGO/Strutture Dati/2-3 Alberi.md",
+    "PROG ALGO/Semantica e resto/Lower bound Ω(n log n).md",
+    "PROG ALGO/Strutture Dati/Heap.md",
+    "CLOUD COMPUTING/Slides/FaaS.md",
+    "CLOUD COMPUTING/AA INDEX/Indice.md",
+    "CLOUD COMPUTING/Slides/Containers.md",
+    "CLOUD COMPUTING/Slides/IaaS.md",
+    "CLOUD COMPUTING/Slides/Introuzione al Cloud Computing.md",
+    "AAAAA COMMANDS/COMMANDS.md",
+    "yo.md",
     "CLOUD COMPUTING/Slides",
     "CLOUD COMPUTING/IaaS",
     "CLOUD COMPUTING/AA INDEX",
-    "CLOUD COMPUTING",
-    "PROG ALGO/Semantica e resto/Master Theorem.md",
-    "hi.md",
-    "PROG ALGO/Semantica e resto/Divide-et-impera.md",
-    "PROG ALGO/Algoritmi/Merge Sort.md",
-    "PROG ALGO/Algoritmi/Quick Sort.md",
-    "PROG ALGO/Semantica e resto/BNF e sintassi.md",
-    "PROG ALGO/Semantica e resto/Grammatica.md",
-    "PROG ALGO/Algoritmi/Selection Sort.md",
-    "PROG ALGO/Algoritmi/Radix Sort.md",
-    "PROG ALGO/Algoritmi/Insertion Sort.md"
+    "CLOUD COMPUTING"
   ]
 }

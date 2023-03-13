@@ -16,9 +16,9 @@
 	* [x] Scoping e blocchi (identificatori liberi e legati)
 	* [x] [[Record di attivazione]]
 	* [ ] Regole semantica dinamica
-		* [ ] Espressioni
-		* [ ] Comandi
-		* [ ] Dichiarazioni
+		* [x] Espressioni
+		* [x] Comandi
+		* [x] Dichiarazioni
 		* [ ] Funzioni: dichiarazione (lambda astrazione e chiusure) e chiamata
 		* [ ] Funzioni ricorsive (dichiarazione e chiamata)
 ---

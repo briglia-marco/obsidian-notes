@@ -4,7 +4,7 @@ Il Counting Sort è un algoritmo di ordinamento basato sulla distribuzione dei v
 
 Il Counting Sort è utilizzato quando i valori nell'input sono limitati a un intervallo noto e fisso di valori possibili. In altre parole, se i valori nell'input appartengono a un insieme finito di valori distinti, si può utilizzare il Counting Sort. Questo lo rende particolarmente utile per la ordinazione di array di interi o di valori che possono essere facilmente mappati su un intervallo limitato di interi.
 
-Il Counting Sort è molto efficiente in termini di tempo di esecuzione, poiché non ha bisogno di confrontare o scambiare elementi. Tuttavia, richiede molto spazio extra per archiviare il conteggio dei valori, rendendolo meno efficiente in termini di utilizzo della memoria rispetto ad altri algoritmi di ordinamento come l'ordinamento a bolle o il quick sort.
+Il Counting Sort è molto efficiente in termini di tempo di esecuzione, poiché non ha bisogno di confrontare o scambiare elementi. Tuttavia, richiede molto spazio extra per archiviare il conteggio dei valori, rendendolo meno efficiente in termini di utilizzo della memoria rispetto ad altri algoritmi di ordinamento come il [[Bubble Sort]] o il [[quick sort]].
 
 
 # Pseudocodice

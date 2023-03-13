@@ -1,16 +1,18 @@
 # Pseudocodice
 ```js
 function insertionSort(A) {
-  for (let i = 1; i < A.length; i++) {
-    let j = i;
-    
-    //ogni volta porti avanti l'elemento maggiore
-    while (j > 0 && A[j - 1] > A[j]) {
-      [A[j - 1], A[j]] = [A[j], A[j - 1]];
-      j--;
-    }
-    
-  }
+  // Itera sull'array partendo dall'indice 1
+  for (let i = 1; i < A.length; i++) {
+    // Crea una variabile j uguale a i
+    let j = i;
+    // Finché j è maggiore di 0 e l'elemento precedente è maggiore dell'elemento corrente
+    while (j > 0 && A[j - 1] > A[j]) {
+      // Scambia i due elementi utilizzando la destructuring assignment
+      [A[j - 1], A[j]] = [A[j], A[j - 1]];
+      // Decrementa j per continuare a confrontare l'elemento corrente con l'elemento precedente
+      j--;
+    }
+  }
 }
 
 ```

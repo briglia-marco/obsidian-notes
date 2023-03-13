@@ -1,5 +1,5 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\ntt : $\\theta$ \n\narray : $$$nl$\\begin{array}{$tb$}$nl$$nl$\\end{array}$nl$$$\n\nappartiene : ∈\n\nsottoinsieme : ⊆\t\n\nintersezione : ∩\n\nunione : ∪\n\nvuoto : ∅\n\nperogni : ∀\n\nesiste : ∃\n\ndiverso : ≠",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\ntt : $\\theta$ \n\narray : $$$nl$\\begin{array}{$tb$}$nl$$nl$\\end{array}$nl$$$\n\nappartiene : ∈\n\nsottoinsieme : ⊆\t\n\nintersezione : ∩\n\nunione : ∪\n\nvuoto : ∅\n\nperogni : ∀\n\nesiste : ∃\n\ndiverso : ≠\n\ndef : > [!def] $end$$nl$$nl$",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
     "tt : $\\theta$ ",
@@ -11,7 +11,8 @@
     "vuoto : ∅",
     "perogni : ∀",
     "esiste : ∃",
-    "diverso : ≠"
+    "diverso : ≠",
+    "def : > [!def] $end$$nl$$nl$"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",

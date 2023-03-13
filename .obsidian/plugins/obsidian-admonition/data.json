@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "0, 255, 64",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "def",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.2.1",
